@@ -1,2 +1,4 @@
-#vsc
-.vscode
+#python env
+covid19_env
+#jupyter
+.ipynb_checkpoints
